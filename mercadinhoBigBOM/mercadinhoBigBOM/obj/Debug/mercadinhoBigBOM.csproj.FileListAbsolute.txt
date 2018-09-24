@@ -1,0 +1,25 @@
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.exe.config
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.exe
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.pdb
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\MySql.Data.dll
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\Google.Protobuf.dll
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csprojAssemblyReference.cache
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.Menu.resources
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.Properties.Resources.resources
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.GenerateResource.cache
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.CopyComplete
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.exe
+C:\Users\T-Gamer\source\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.pdb
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.exe.config
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.exe
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\mercadinhoBigBOM.pdb
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\bin\Debug\Google.Protobuf.dll
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csprojAssemblyReference.cache
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.Menu.resources
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.Properties.Resources.resources
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.csproj.CopyComplete
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.exe
+C:\Users\T-Gamer\Arquivos do Visual Studio\repos\mercadinhoBigBOM\mercadinhoBigBOM\obj\Debug\mercadinhoBigBOM.pdb
